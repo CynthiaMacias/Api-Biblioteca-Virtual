@@ -1,0 +1,16 @@
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Api_BV.deps.json
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Api_BV.runtimeconfig.json
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Api_BV.runtimeconfig.dev.json
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Api_BV.dll
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Api_BV.pdb
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.RazorAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.RazorAssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.AssemblyInfoInputs.cache
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.AssemblyInfo.cs
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.RazorTargetAssemblyInfo.cache
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.dll
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.pdb
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\obj\Debug\netcoreapp2.1\Api_BV.csprojAssemblyReference.cache
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\TSM CONNECT\Desktop\Api BV\Api_BV\Api_BV\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
